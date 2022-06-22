@@ -3,8 +3,4 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-Geanfranco5838/Geanfranco5838 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Esta es una prueba para el curso de "INTRODUCCION A LAS TIC"
